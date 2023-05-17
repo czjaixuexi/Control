@@ -69,17 +69,17 @@ make
 
 #### Pure_Pursuit
 
-![pure_pursuit_demo](README.assets/pure_pursuit_demo.png)
+![pure_pursuit_demo](https://gitee.com/czjaixuexi/typora_pictures/raw/master/img/202305180229501.png)
 
 #### Rear_Wheel_Feedback
 
-![rear_demo](README.assets/rear_demo.png)
+![rear_demo](https://gitee.com/czjaixuexi/typora_pictures/raw/master/img/202305180229504.png)
 
 
 
 #### Stanley
 
-![stanley_demo](README.assets/stanley_demo.png)
+![stanley_demo](https://gitee.com/czjaixuexi/typora_pictures/raw/master/img/202305180229505.png)
 
 
 
